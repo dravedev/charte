@@ -1,2 +1,3 @@
 # charte
-Règlements généraux 
+
+[Identité et raison d’être](identite.md)
